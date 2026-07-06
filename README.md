@@ -114,22 +114,4 @@ to improve automated cyber threat detection and predictive cybersecurity.
 - Cloud Computing
 - Data Structures & Algorithms
 
----
 
-# GitHub Statistics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Nithinvp11&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nithinvp11&layout=compact&theme=github_dark&hide_border=true"/>
-
-</p>
-
----
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Nithinvp11&theme=github-dark&hide_border=true"/>
-
-</p>
