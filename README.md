@@ -1,16 +1,54 @@
-## Hi there 👋
+👋 Hi, I'm Nithin
 
-<!--
-**Nithinvp11/Nithinvp11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineer
+M.Sc. Computer Science
 
-Here are some ideas to get you started:
+---------------------------------
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+About Me
+
+• Passionate Software Engineer
+• Full-Stack Web Developer
+• Backend Development Enthusiast
+• Published AI Research Paper
+• Continuous Learner
+
+---------------------------------
+
+Tech Stack
+
+Java
+JavaScript
+TypeScript
+React
+Next.js
+Node.js
+Express
+PostgreSQL
+MongoDB
+AWS
+Git
+
+---------------------------------
+
+Featured Projects
+
+📄 DocHub
+
+🍔 Cloud Kitchen
+
+👟 ShoeBuzz
+
+---------------------------------
+
+Research
+
+AI-Driven Cyber Threat Intelligence
+
+---------------------------------
+
+Contact
+
+LinkedIn - linkedin.com/in/nithin-v-p 
+
+Email - nithinvp11@gmail.com
