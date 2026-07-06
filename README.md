@@ -133,9 +133,3 @@ to improve automated cyber threat detection and predictive cybersecurity.
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nithinvp11&theme=github-dark&hide_border=true"/>
 
 </p>
-
----
-
-## Engineering Philosophy
-
-> *"Good software is not only functional—it is readable, maintainable, scalable, and built with purpose."*
